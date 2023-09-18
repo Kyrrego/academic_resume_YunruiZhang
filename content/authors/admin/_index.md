@@ -83,5 +83,4 @@ highlight_name: true
 ---
 
 Yunrui Zhang is a senior undergraduate student at Department of Automation, Tsinghua Univeristy. Her researh interests include MRI & MRSI imaging, multi-modal biomedical imaging and surgical robots. She was a summer intern at Beckman Institute, University of Illinois Urbana-Champaign from July to September 2023. She is also the leader of Intelligent Surgical Robot Team at Tsinghua University. Yunrui is also an enthusiast of classic Chinese literature & poetry, contemporary fiction, and traveling.
-
 {style="text-align: justify;"}
