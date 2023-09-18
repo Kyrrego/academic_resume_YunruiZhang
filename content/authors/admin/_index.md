@@ -57,9 +57,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  '''- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ''' # 09/18/23: Don't have a google scholar page yet:)
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # 09/18/23: Don't have a google scholar page yet:)
   - icon: github
     icon_pack: fab
     link: https://github.com/Kyrrego
