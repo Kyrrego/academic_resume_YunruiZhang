@@ -6,6 +6,7 @@ type: landing
 
 sections:
   # Delete template block
+  # Biography
   - block: about.biography
     id: about
     content:
@@ -28,41 +29,43 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+  # Experience
   - block: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jul 2023
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Summer Intern
+          company: Beckman Institute, University of Illinois Urbana-Champaign
+          company_url: 'https://bioengineering.illinois.edu/people/fanlam1'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Urbana-Champaign, IL, US
+          date_start: '2023-07-17'
+          date_end: '2023-09-12'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Improving performance of MRSI reconstruction
+              * Designing and training deep learning neural networks
+              * Volunteering in MRI data acquisition
+        - title: Leader of Intelligent Surgical Robot Team
+          company: Tsinghua University
+          company_url: 'https://www.tsinghua.edu.cn/en/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Beijing, China
+          date_start: '2022-10-01'
+          date_end: '2023-12-31'
+          description: Developed Intelligent Surgical Robot System
     design:
       columns: '2'
+  # Accomplishments
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -102,6 +105,7 @@ sections:
           url: ''
     design:
       columns: '2'
+  # Collection
   - block: collection
     id: posts
     content:
@@ -129,6 +133,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  # Protfolio
   - block: portfolio
     id: projects
     content:
