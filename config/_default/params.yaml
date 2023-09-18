@@ -55,8 +55,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Aug 25, 2023'
+  time_format: '11:59 AM'
   address_format: en-us
 
 # Site features
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Kyrrego/academic_resume_YunruiZhang' #'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
