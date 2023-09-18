@@ -43,7 +43,7 @@ education:
     '''
     - course: BEng in Automation
       institution: Tsinghua University
-      year: 2024 (Expected)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
