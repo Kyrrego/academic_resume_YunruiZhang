@@ -43,8 +43,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Summer Intern
-          company: Beckman Institute, University of Illinois Urbana-Champaign
-          company_url: 'https://bioengineering.illinois.edu/people/fanlam1'
+          company: Beckman Institute, University of Illinois at Urbana-Champaign
+          company_url: 'https://beckman.illinois.edu/'
           company_logo: org-gc
           location: Urbana-Champaign, IL, US
           date_start: '2023-07-17'
@@ -194,6 +194,8 @@ sections:
     design:
       columns: '2'
       view: citation
+  # Talks
+  /*
   - block: collection
     id: talks
     content:
@@ -204,6 +206,7 @@ sections:
     design:
       columns: '2'
       view: compact
+  */
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -215,31 +218,26 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to reach out at any time!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: yrzhang0722@gmail.com
+      phone: (+86)136 9911 9108
+      appointment_url: 'https://yunrui-zhang.netlify.app'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Zijing Building, Tsinghua University
+        city: Beijing
+        region: Beijing
+        postcode: '100084'
+        country: China
+        country_code: CN
+      directions: 
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday - Sunday 08:00 to 22:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'https://twitter.com/yrzhang0722'
         - icon: video
           icon_pack: fas
           name: Zoom Me
