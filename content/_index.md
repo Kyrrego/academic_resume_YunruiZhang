@@ -1,11 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-09-18
 type: landing
 
 sections:
-  - block: hero
+  # Delete template block
+  '''- block: hero
     content:
       title: Hugo Academic Theme
       image:
@@ -34,7 +35,7 @@ sections:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
-        text_color_light: true
+        text_color_light: true'''
   - block: about.biography
     id: about
     content:
