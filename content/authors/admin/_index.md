@@ -33,12 +33,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    <!--
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
+    -->
     - course: BEng in Automation
       institution: Tsinghua University
       year: 2024
@@ -80,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Yunrui Zhang is a senior undergraduate student at Department of Automation, Tsinghua Univeristy. Her researh interests include MRI & MRSI imaging, multi-modal biomedical imaging and surgical robots. She was a summer intern at Beckman Institute, University of Illinois Urbana-Champaign from July to September 2023. She is also the leader of Intelligent Surgical Robot Team at Tsinghua University. Yunrui is also an enthusiast of classic Chinese literature & poetry, contemporary fiction, and traveling.
+Yunrui Zhang is a senior undergraduate student at Department of Automation, Tsinghua Univeristy. Her research interests include MRI & MRSI imaging, multi-modal biomedical imaging and surgical robots. She was a summer intern at Beckman Institute, University of Illinois Urbana-Champaign from July to September 2023. She is also the leader of Intelligent Surgical Robot Team at Tsinghua University. Yunrui is an enthusiast of classic Chinese literature & poetry, contemporary fiction, and traveling.
 {style="text-align: justify;"}

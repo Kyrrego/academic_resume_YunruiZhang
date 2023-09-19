@@ -226,7 +226,7 @@ sections:
       address:
         street: Zijing Building, Tsinghua University
         city: Beijing
-        region: Beijing
+        region: China
         postcode: '100084'
         country: China
         country_code: CN
