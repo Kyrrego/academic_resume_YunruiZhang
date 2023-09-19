@@ -48,6 +48,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  # TODO: Send email automatically to author's address
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -57,9 +58,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # 09/18/23: Don't have a google scholar page yet:)
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # 09/18/23: Don't have a google scholar page yet:)
   - icon: github
     icon_pack: fab
     link: https://github.com/Kyrrego
@@ -69,6 +70,8 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+
+  # TODO: Add Weibo, Zhihu, etc.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
