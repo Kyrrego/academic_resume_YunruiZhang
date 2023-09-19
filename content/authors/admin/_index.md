@@ -39,9 +39,9 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BEng in Automation
+    - course: B.Eng in Automation
       institution: Tsinghua University
-      year: 2024
+      year: 2024(Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,7 +71,10 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
 
-  # TODO: Add Weibo, Zhihu, etc.
+  # TODO: Add Weibo, Zhihu, CSDN, etc.
+  - icon: weibo
+    icon_pack: fab
+    link: https://weibo.com/u/5991623845
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
