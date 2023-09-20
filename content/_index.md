@@ -81,20 +81,20 @@ sections:
       items:
         - certificate_url: https://cloud.tsinghua.edu.cn/f/07f8871794434bdbb6eb/
           date_end: ''
-          date_start: '2023-05-18'
+          date_start: 'May 2023'
           description: 'First Prize in 2023 Beijing Challenge Cup'
           organization: 
           organization_url: https://bj.tiaozhanbei.net
           title: Intelligent Surgical Robot System
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://cloud.tsinghua.edu.cn/f/f26d5a2f28bc4512b075/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: 'Oct 2021'
+          description: QBronze is QWorld’s introductory level quantum workshop series (16 to 20 hours) on the basics of quantum computing and quantum programming created in October 2018. Successful participants used ProjectQ library to solve real-world quantum computation problems.
+          organization: QWorld
+          organization_url: https://qworld.net/workshop-bronze/#list
+          title: Quantum Comutation Programming
+          url: https://qworld.net/qbronze69-china-october-2021/
 
     design:
       columns: '2'
