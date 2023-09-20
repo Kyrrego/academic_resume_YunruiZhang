@@ -9,6 +9,9 @@ image:
 
 "A room of one's own", with a view. 
 
+
+
+
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
