@@ -93,7 +93,7 @@ sections:
           description: QBronze is QWorld’s introductory level quantum workshop series (16 to 20 hours) on the basics of quantum computing and quantum programming created in October 2018. Successful participants used ProjectQ library to solve real-world quantum computation problems.
           organization: QWorld
           organization_url: https://qworld.net/workshop-bronze/#list
-          title: Quantum Comutation Programming
+          title: Quantum Computation Programming
           url: https://qworld.net/qbronze69-china-october-2021/
 
     design:
@@ -159,7 +159,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="life_yr" >}}
     design:
       columns: '1'
   - block: collection
