@@ -80,16 +80,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://cloud.tsinghua.edu.cn/f/07f8871794434bdbb6eb/
-          date_end: ''
-          date_start: 'May 2023'
+          date_end: '2023-05-18'
+          date_start: '2022-10-01'
           description: 'First Prize in 2023 Beijing Challenge Cup'
           organization: 
           organization_url: https://bj.tiaozhanbei.net
           title: Intelligent Surgical Robot System
           url: ''
         - certificate_url: https://cloud.tsinghua.edu.cn/f/f26d5a2f28bc4512b075/
-          date_end: ''
-          date_start: 'Oct 2021'
+          date_end: '2021-10-30'
+          date_start: '2021-10-15'
           description: QBronze is QWorld’s introductory level quantum workshop series (16 to 20 hours) on the basics of quantum computing and quantum programming created in October 2018. Successful participants used ProjectQ library to solve real-world quantum computation problems.
           organization: QWorld
           organization_url: https://qworld.net/workshop-bronze/#list
