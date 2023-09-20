@@ -48,7 +48,7 @@ sections:
           company_logo: org-gc
           location: Urbana-Champaign, IL, US
           date_start: '2023-07-17'
-          date_end: '2023-09-12'
+          date_end: 
           description: |2-
               Responsibilities include:
 
@@ -72,20 +72,20 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: May 2023
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://cloud.tsinghua.edu.cn/f/07f8871794434bdbb6eb/
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-05-18'
+          description: 'First Prize in 2023 Beijing Challenge Cup'
+          organization: 
+          organization_url: https://bj.tiaozhanbei.net
+          title: Intelligent Surgical Robot System
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -95,14 +95,7 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+
     design:
       columns: '2'
   # Collection
