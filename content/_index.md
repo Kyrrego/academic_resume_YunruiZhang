@@ -13,22 +13,23 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Python
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
+
   # Experience
   - block: experience
     content:
@@ -45,7 +46,7 @@ sections:
         - title: Summer Intern
           company: Beckman Institute, University of Illinois at Urbana-Champaign
           company_url: 'https://beckman.illinois.edu/'
-          company_logo: org-gc
+          company_logo: 
           location: Urbana-Champaign, IL, US
           date_start: '2023-07-17'
           date_end: 
@@ -58,7 +59,7 @@ sections:
         - title: Leader of Intelligent Surgical Robot Team
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: org-x
+          company_logo: 
           location: Beijing, China
           date_start: '2022-10-01'
           date_end: '2023-12-31'
