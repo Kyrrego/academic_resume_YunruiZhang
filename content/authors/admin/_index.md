@@ -72,9 +72,9 @@ social:
   # and uncomment the lines below.
 
   # TODO: Add Weibo, Zhihu, CSDN, etc.
-  - icon: weibo
-    icon_pack: fab
-    link: https://weibo.com/u/5991623845
+  # - icon: weibo
+  #   icon_pack: fab
+  #   link: https://weibo.com/u/5991623845
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
