@@ -46,7 +46,7 @@ sections:
         - title: Summer Intern
           company: Beckman Institute, University of Illinois at Urbana-Champaign
           company_url: 'https://beckman.illinois.edu/'
-          company_logo: 
+          company_logo: org-gc
           location: Urbana-Champaign, IL, US
           date_start: '2023-07-17'
           date_end: 
@@ -59,7 +59,7 @@ sections:
         - title: Leader of Intelligent Surgical Robot Team
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: 
+          company_logo: org-x
           location: Beijing, China
           date_start: '2022-10-01'
           date_end: '2023-12-31'
@@ -160,7 +160,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="life_yr" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection
