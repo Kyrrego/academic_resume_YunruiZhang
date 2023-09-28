@@ -6,18 +6,20 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Xiao Long
+  - Gangtie Zheng
+  - Richard M. Voyles
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-09-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,15 +28,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IEEE International Conference on Robotics and Automation 2024*
+publication_short: In *ICRA2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Plastic surgery not only enhances beauty but also corrects facial defects or restores damaged face. Nevertheless, in addition to repetitive labor and often exorbitant costs, conventional manual plastic surgery sometimes brings along imprecise surgical procedures that leave patients with unnatural outcomes, such as distorted eyelids, immobile mouth corners, or even misaligned facial structures. In response to these challenges, robotics researchers and plastic surgeons worldwide have devoted considerable efforts in fields such as facial digital modelling, robotic assistant surgery, intelligent surgical planning, and operation quality evaluation. This workshop welcomes contributions encompassing innovative and interdisciplinary developments in the realm of robotics for enhancing the quality, efficiency, precision and safety of plastic surgeries, such as intelligent operation planning by multi-modal biomedical imaging and machine learning, face organs and tissue compatible robot control and etc.. This workshop aims to serve as a platform for deliberating recent advancements in robotics for plastic surgeries, while also addressing opportunities and crucial challenges that lie ahead in this domain. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Workshop for ICRA2024. See you in Yokohama, Japan, May 13-17, 2024
 
-tags: []
+tags: [Medical Robots and Systems, Computer Vision for Medical Robotics, Surgical Robotics: Planning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,20 +47,20 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
