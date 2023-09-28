@@ -30,7 +30,7 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
 
-  
+
   # Experience
   - block: experience
     content:
@@ -73,9 +73,10 @@ sections:
           location: Beijing, China
           date_start: '2022-10-01'
           date_end: '2023-12-31'
-          description: - (For the first time) Applied surgical robotics in clinical facial injection-based plastic surgery treatment.
-          - Established a 3D multimodal digital facial model for surgical planning.
-          - Developed facial 3D spatial navigation control and path planning algorithms for surgical robots, as well as probe localization and pose matching algorithms.
+          description: |2-
+            * (For the first time) Applied surgical robotics in clinical facial injection-based plastic surgery treatment.
+            * Established a 3D multimodal digital facial model for surgical planning.
+            * Developed facial 3D spatial navigation control and path planning algorithms for surgical robots, as well as probe localization and pose matching algorithms.
 
         - title: Research Assistant, Quantum Control and Quantum Computation Lab
           company: Department of Automation, Tsinghua University
@@ -84,8 +85,9 @@ sections:
           location: Beijing, China
           date_start: '2021-11-01'
           date_end: '2022-11-01'
-          description: Developed Universal Frame for Quantum Machine Learning based on Quantum Singular Value Transformation. 
-          Explored quantum control landscape problem with topological data analysis method.
+          description: |2-
+            * Developed Universal Frame for Quantum Machine Learning based on Quantum Singular Value Transformation. 
+            * Explored quantum control landscape problem with topological data analysis method.
 
     design:
       columns: '2'
