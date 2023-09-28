@@ -29,6 +29,8 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
+
+  
   # Experience
   - block: experience
     content:
@@ -55,16 +57,40 @@ sections:
               * Improving performance of MRSI reconstruction
               * Designing and training deep learning neural networks
               * Volunteering in MRI data acquisition
-        - title: Leader of Intelligent Surgical Robot Team
+        - title: Co-organizer, IEEE ICRA24 Workshop
+          company: Tsinghua University
+          company_url: 'https://www.tsinghua.edu.cn/en/'
+          # company_logo: org-x
+          location: Beijing, China
+          date_start: '2024-05-13'
+          date_end: '2024-05-17'
+          description: Co-organizer of IEEE ICRA24 Workshop on Intelligent Surgical Robots. 
+
+        - title: Leader, Intelligent Surgical Robot Team
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
           # company_logo: org-x
           location: Beijing, China
           date_start: '2022-10-01'
           date_end: '2023-12-31'
-          description: Developed Intelligent Surgical Robot System
+          description: - (For the first time) Applied surgical robotics in clinical facial injection-based plastic surgery treatment.
+          - Established a 3D multimodal digital facial model for surgical planning.
+          - Developed facial 3D spatial navigation control and path planning algorithms for surgical robots, as well as probe localization and pose matching algorithms.
+
+        - title: Research Assistant, Quantum Control and Quantum Computation Lab
+          company: Department of Automation, Tsinghua University
+          company_url: 'https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao'
+          # company_logo: org-x
+          location: Beijing, China
+          date_start: '2021-11-01'
+          date_end: '2022-11-01'
+          description: Developed Universal Frame for Quantum Machine Learning based on Quantum Singular Value Transformation. 
+          Explored quantum control landscape problem with topological data analysis method.
+
     design:
       columns: '2'
+
+
   # Accomplishments
   - block: accomplishments
     content:
@@ -98,34 +124,8 @@ sections:
 
     design:
       columns: '2'
-  # Collection
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+
+
   # Protfolio
   - block: portfolio
     id: projects
@@ -154,14 +154,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="life_yr" >}}
-    design:
-      columns: '1'
+
+
   - block: collection
     id: featured
     content:
@@ -173,6 +167,46 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="life_yr" >}}
+    design:
+      columns: '1'
+
+
+  # Collection
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
+
+
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -225,7 +259,7 @@ sections:
         country_code: CN
       directions: 
       office_hours:
-        - 'Monday - Sunday 08:00 to 22:00'
+        - 'Monday - Sunday 08:00 to 22:00(CST)'
       contact_links:
         - icon: twitter
           icon_pack: fab
