@@ -73,7 +73,7 @@ sections:
           # company_logo: org-x
           location: Beijing, China
           date_start: '2022-10-01'
-          date_end: '2023-12-31'
+          date_end: 
           description: |2-
             * Pioneered the utilization of surgical robotics in clinical facial injection-based plastic surgery treatments.
             * Innovated the creation of a comprehensive 3D multi-modal deep digital facial model for precise surgical planning.
@@ -93,43 +93,42 @@ sections:
     design:
       columns: '2'
 
+  # 10/09: Deleted this block because it can be merged with "Projects"
+  # # Accomplishments
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: May 2023
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://cloud.tsinghua.edu.cn/f/07f8871794434bdbb6eb/
+  #         date_end: '2023-05-18'
+  #         date_start: '2022-10-01'
+  #         description: 'First Prize in 2023 Beijing Challenge Cup'
+  #         organization: 
+  #         organization_url: https://bj.tiaozhanbei.net
+  #         title: Intelligent Surgical Robot System
+  #         url: ''
+  #       - certificate_url: https://cloud.tsinghua.edu.cn/f/f26d5a2f28bc4512b075/
+  #         date_end: '2021-10-30'
+  #         date_start: '2021-10-15'
+  #         description: QBronze is QWorld’s introductory level quantum workshop series (16 to 20 hours) on the basics of quantum computing and quantum programming created in October 2018. Successful participants used ProjectQ library to solve real-world quantum computation problems.
+  #         organization: QWorld
+  #         organization_url: https://qworld.net/workshop-bronze/#list
+  #         title: Quantum Computation Programming
+  #         url: https://qworld.net/qbronze69-china-october-2021/
 
-  # Accomplishments
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: May 2023
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://cloud.tsinghua.edu.cn/f/07f8871794434bdbb6eb/
-          date_end: '2023-05-18'
-          date_start: '2022-10-01'
-          description: 'First Prize in 2023 Beijing Challenge Cup'
-          organization: 
-          organization_url: https://bj.tiaozhanbei.net
-          title: Intelligent Surgical Robot System
-          url: ''
-        - certificate_url: https://cloud.tsinghua.edu.cn/f/f26d5a2f28bc4512b075/
-          date_end: '2021-10-30'
-          date_start: '2021-10-15'
-          description: QBronze is QWorld’s introductory level quantum workshop series (16 to 20 hours) on the basics of quantum computing and quantum programming created in October 2018. Successful participants used ProjectQ library to solve real-world quantum computation problems.
-          organization: QWorld
-          organization_url: https://qworld.net/workshop-bronze/#list
-          title: Quantum Computation Programming
-          url: https://qworld.net/qbronze69-china-october-2021/
+  #   design:
+  #     columns: '2' 
 
-    design:
-      columns: '2'
-
-
-  # Protfolio
+  # Portfolio
   - block: portfolio
     id: projects
     content:
