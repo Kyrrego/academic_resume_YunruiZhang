@@ -36,4 +36,7 @@ Proposed a novel deep learning-based method for magnetic resonance spectroscopic
 
 Devised specialized convolutional kernels and a complex convolutional neural network architecture to enhance both the efficiency of training and the quality of reconstruction.
 
-Source code (will open to public after publishment): https://github.com/Kyrrego/RAKI_MRSI
+Source code (will open to public afterwards): https://github.com/Kyrrego/RAKI_MRSI
+
+
+
