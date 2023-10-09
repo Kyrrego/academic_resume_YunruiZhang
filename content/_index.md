@@ -44,7 +44,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Summer Intern
+        - title: Summer Research Internship
           company: Beckman Institute, University of Illinois at Urbana-Champaign
           company_url: 'https://beckman.illinois.edu/'
           # company_logo: org-gc
@@ -52,11 +52,9 @@ sections:
           date_start: '2023-07-17'
           date_end: 
           description: |2-
-              Responsibilities include:
-
-              * Improving performance of MRSI reconstruction
-              * Designing and training deep learning neural networks
-              * Volunteering in MRI data acquisition
+              * Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
+              * Devised specialized convolutional kernels and a complex convolutional neural network architecture to enhance both the efficiency of training and the quality of reconstruction.
+  
         - title: Co-organizer, IEEE ICRA24 Workshop
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
@@ -64,7 +62,10 @@ sections:
           location: Beijing, China
           date_start: '2024-05-13'
           date_end: '2024-05-17'
-          description: Co-organizer of IEEE ICRA24 Workshop on Intelligent Surgical Robots. 
+          description: |2-
+          Co-organizer of IEEE ICRA24 Workshop on Intelligent Surgical Robots. 
+
+          * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
 
         - title: Leader, Intelligent Surgical Robot Team
           company: Tsinghua University
@@ -74,9 +75,9 @@ sections:
           date_start: '2022-10-01'
           date_end: '2023-12-31'
           description: |2-
-            * (For the first time) Applied surgical robotics in clinical facial injection-based plastic surgery treatment.
-            * Established a 3D multimodal digital facial model for surgical planning.
-            * Developed facial 3D spatial navigation control and path planning algorithms for surgical robots, as well as probe localization and pose matching algorithms.
+            * Pioneered the utilization of surgical robotics in clinical facial injection-based plastic surgery treatments.
+            * Innovated the creation of a comprehensive 3D multi-modal deep digital facial model for precise surgical planning.
+            * Engineered advanced facial 3D spatial navigation control and path planning algorithms specifically tailored for surgical robots, alongside cutting-edge probe localization and pose matching algorithms.
 
         - title: Research Assistant, Quantum Control and Quantum Computation Lab
           company: Department of Automation, Tsinghua University
@@ -86,8 +87,8 @@ sections:
           date_start: '2021-11-01'
           date_end: '2022-11-01'
           description: |2-
-            * Developed Universal Frame for Quantum Machine Learning based on Quantum Singular Value Transformation. 
-            * Explored quantum control landscape problem with topological data analysis method.
+            * Conceived and conducted the design and simulation of quantum circuits tailored for the integration of nonlinear activation functions within quantum neural networks, leveraging the Quantum Singular Value Transformation paradigm.
+            * Pioneered the application of topological data analysis methodology to provide empirical evidence that, during the traversal process, the quantum control landscape remains unburdened by the challenge of becoming ensnared in local optima.
 
     design:
       columns: '2'
