@@ -164,17 +164,19 @@ sections:
       flip_alt_rows: false
 
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+
+
   - block: markdown
     content:
       title: Gallery
@@ -253,7 +255,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out at any time!
+        Please feel free to reach out at any time! The best way to reach me would be via email or WeChat.
       # Contact (add or remove contact options as necessary)
       email: yrzhang0722@gmail.com
       phone: (+86)136 9911 9108
