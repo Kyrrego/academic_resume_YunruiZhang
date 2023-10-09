@@ -1,5 +1,5 @@
 ---
-title:  RAKI on MRSI : A deep learning approach to reconstructing high-dimensional MRSI data
+title:  RAKI on MRSI - A deep learning approach to reconstructing high-dimensional MRSI data
 summary: Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
 
 tags:
