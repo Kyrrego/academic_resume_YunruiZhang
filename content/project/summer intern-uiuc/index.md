@@ -4,7 +4,7 @@ summary: Proposed a novel deep learning-based method for magnetic resonance spec
 
 tags:
   - Deep Learning
-  - MRI/MRSI
+  - Biomedical Imaging
 date: '2023-07-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
