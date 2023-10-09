@@ -11,7 +11,7 @@ date: '2022-05-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 'Quantum Circuit design for nonlinear quantum neurons'
+  caption: 'GUI of Intelligent Book Sorting Assistant (IBSA)'
   focal_point: Smart
 
 links:

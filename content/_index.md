@@ -148,6 +148,12 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Biomedical Imaging
+          tag: Biomedical Imaging
+        - name: Robotics
+          tag: Robotics
+        - name: Quantum Computation
+          tag: Quantum Computation
         - name: Other
           tag: Demo
     design:
