@@ -62,10 +62,10 @@ sections:
           location: Beijing, China
           date_start: '2024-05-13'
           date_end: '2024-05-17'
-          description: |2-
-          Co-organizer of IEEE ICRA24 Workshop on Intelligent Surgical Robots. 
+          description: |1-
+            Co-organizer of IEEE ICRA24 (International Conference on Robotics and Automation) Workshop on Intelligent Surgical Robots. 
 
-          * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
+            * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
 
         - title: Leader, Intelligent Surgical Robot Team
           company: Tsinghua University
