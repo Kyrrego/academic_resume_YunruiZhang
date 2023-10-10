@@ -269,7 +269,7 @@ sections:
         postcode: '100084'
         country: China
         country_code: CN
-      directions: 
+      # directions: 
       # office_hours:
       #   - 'Monday - Sunday 08:00 to 22:00(CST)'
       contact_links:
