@@ -33,6 +33,7 @@ sections:
 
   # Experience
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -178,6 +179,7 @@ sections:
 
 
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -261,24 +263,24 @@ sections:
       phone: (+86)136 9911 9108
       appointment_url: 'https://yunrui-zhang.netlify.app'
       address:
-        street: Zijing Building, Tsinghua University
+        street: Tsinghua University
         city: Beijing
         region: China
         postcode: '100084'
         country: China
         country_code: CN
       directions: 
-      office_hours:
-        - 'Monday - Sunday 08:00 to 22:00(CST)'
+      # office_hours:
+      #   - 'Monday - Sunday 08:00 to 22:00(CST)'
       contact_links:
-        - icon: twitter
+        - icon: weixin
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/yrzhang0722'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: DM Me via WeChat
+          link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
