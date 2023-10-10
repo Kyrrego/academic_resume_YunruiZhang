@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yunrui Zhang # Website name
-baseURL: 'https://yunrui-zhang.netlify.app' # Website URL
+baseURL: 'https://yunrui-zhang.me' # Website URL
 
 ############################
 ## LANGUAGE
