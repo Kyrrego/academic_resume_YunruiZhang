@@ -275,18 +275,18 @@ sections:
       contact_links:
         - icon: weixin
           icon_pack: fab
-          name: DM Me via WeChat
+          name: DM Me via <a href="https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/" rel="noopener">WeChat</a>
           link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
         - icon: heart
           icon_pack: fas
           name: Avatar taken by <a href="https://giddazhang.github.io" rel="noopener">Jida</a>
-          link: 
+          link: https://giddazhang.github.io
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
         #   link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
+        # Automatically link email and phone or display as text?
+        autolink: false
       # Email form provider
       # form:
       #   provider: netlify
