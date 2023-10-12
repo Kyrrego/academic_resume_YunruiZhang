@@ -286,7 +286,7 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
         # Automatically link email and phone or display as text?
-        autolink: false
+      autolink: false
       # Email form provider
       # form:
       #   provider: netlify
