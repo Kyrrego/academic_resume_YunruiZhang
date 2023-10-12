@@ -278,8 +278,9 @@ sections:
           name: DM Me via WeChat
           link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
         - icon: heart
-          icon_pack: fab
+          icon_pack: fas
           name: Avatar taken by <a href="https://giddazhang.github.io" rel="noopener">Jida</a>
+          link: 
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
