@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yunrui Zhang. This work is licensed under {license} \n Powered by <a href="https://wowchemy.com" rel="noopener">Wowchemy</a>'
+    notice: '© {year} Yunrui Zhang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

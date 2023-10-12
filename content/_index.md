@@ -277,20 +277,23 @@ sections:
           icon_pack: fab
           name: DM Me via WeChat
           link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
+        - icon: heart
+          icon_pack: fab
+          name: Avatar taken by <a href="https://giddazhang.github.io" rel="noopener">Jida</a>
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
+      '''# Email form provider
       form:
         provider: netlify
         formspree:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: false'''
     design:
       columns: '2'
 ---
