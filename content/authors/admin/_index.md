@@ -77,7 +77,7 @@ social:
     link: https://weibo.com/u/5991623845
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_Yunrui_Zhang_231016.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
