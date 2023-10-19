@@ -2,8 +2,8 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2023-09-18
-type: landing
 commentable: true # enable Giscus comments
+type: landing
 
 sections:
   # Delete template block
