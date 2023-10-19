@@ -78,7 +78,7 @@ features:
     shape: circle
   comment:
     provider: "giscus"
-    commentable = {page = true, post = true, project = true}
+    # commentable : {page = true, post = true, project = true}
     disqus:
       shortname: ''
       show_count: true
