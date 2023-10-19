@@ -1,6 +1,7 @@
 ---
 title:  Intelligent Book Sorting Assistant Based on Computer Vision
 summary: Developed an app on which the librarian can learn whether the order of the books is correct by taking a picture of a row on the bookshelf.
+commentable: true # enable Giscus comments
 
 tags:
   - Deep Learning
