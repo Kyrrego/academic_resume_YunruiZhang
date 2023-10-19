@@ -3,6 +3,7 @@
 title:
 date: 2023-09-18
 type: landing
+commentable: true # enable Giscus comments
 
 sections:
   # Delete template block
