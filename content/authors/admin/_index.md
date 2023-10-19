@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yunrui Zhang 张芸睿
+commentable: true # enable Giscus comments
 
 # Full name (for SEO)
 first_name: Yunrui
