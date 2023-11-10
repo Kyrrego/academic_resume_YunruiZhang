@@ -52,10 +52,12 @@ sections:
           # company_logo: org-gc
           location: Urbana-Champaign, IL, US
           date_start: '2023-07-17'
-          date_end: 
+          date_end: '2023-09-12'
           description: |2-
-              * Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
+              * Proposed a self-supervised learning-based (k,t)-space interpolation method, (k,t)-RAKI, that is useful for further accelerating MRSI acquisition, in combination with subspace methods.
+             #  * Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
               * Devised specialized convolutional kernels and a complex convolutional neural network architecture to enhance both the efficiency of training and the quality of reconstruction.
+              * Effectively reconstructed data for different undersampling designs in in vivo brain MRSI, leading to improved subsequent spatiospectral processing results.
   
         - title: Co-organizer, IEEE ICRA24 Workshop
           company: Tsinghua University
@@ -261,7 +263,7 @@ sections:
         Please feel free to reach out at any time! The best way to reach me would be via email or WeChat.
       # Contact (add or remove contact options as necessary)
       email: yrzhang0722@gmail.com
-      phone: (+86)136 9911 9108
+      phone: (+86) 136 9911 9108
       appointment_url: 'https://yunrui-zhang.netlify.app'
       address:
         street: Tsinghua University

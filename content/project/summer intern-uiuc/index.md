@@ -30,13 +30,18 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+# 11/10/2023: test pdf embedding (https://github.com/anvithks/hugo-embed-pdf-shortcode)
+{{< embed-pdf url="./ISMRM24_ktRAKI_final.pdf" >}}
+
 ---
 
-Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
+Parallel imaging has been used to accelerate the slow MRSI acquisition [1]. The commonly used linear methods, such as SENSE [2] and GRAPPA [3] based methods, still produce residual aliasing of water/lipid signals which are significant enough to disrupt spatiospectral processing for metabolite reconstruction. Nonlinear k-space interpolation methods have demonstrated success in parallel MRI [4]. RAKI (Robust Artificial neural networks for k-space Interpolation) [5][6] has been designed to calibrate CNN from autocalibration signal (ACS) data which can later be employed on the whole undersampled k-space. However, RAKI has thus far been applied exclusively to MRI data. Formerly, MRSI reconstruction
+has also seen the integration of neural networks [7]. Nevertheless, these approaches focused on nonlinear relationships within the k-space domain, overlooking valuable information in the temporal dimension.
+In this work, we adapted and extended the self-supervised learning-based RAKI method by incorporating the FID dimension into a 3D, complex-valued convolutional network, for MRSI reconstruction. We improved the design by training a single network to handle multi-coil data simultaneously instead of the coil-by-coil interpolation in the original RAKI method. We demonstrate reduced aliasing by the proposed method and consequently improved spatiospectral processing results, using in vivo H-MRSI data.
 
-Devised specialized convolutional kernels and a complex convolutional neural network architecture to enhance both the efficiency of training and the quality of reconstruction.
+Source code available at: https://github.com/Kyrrego/k_t_RAKI
 
-Source code (will open to public afterwards): https://github.com/Kyrrego/RAKI_MRSI
 
 
 
