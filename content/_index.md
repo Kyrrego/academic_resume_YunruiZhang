@@ -279,7 +279,7 @@ sections:
           icon_pack: fab
           name: DM Me via WeChat
           link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
-        - icon: heart
+        - icon: camera-retro
           icon_pack: fas
           name: Avatar image taken by Jida on 09/10/2023 :)
           link: https://giddazhang.github.io

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yunrui Zhang 张芸睿
+title: Yunrui Zhang
 commentable: true # enable Giscus comments
 
 # Full name (for SEO)
