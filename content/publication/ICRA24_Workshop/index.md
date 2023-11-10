@@ -34,7 +34,7 @@ publication_short: In *ICRA2024*
 abstract: Plastic surgery not only enhances beauty but also corrects facial defects or restores damaged face. Nevertheless, in addition to repetitive labor and often exorbitant costs, conventional manual plastic surgery sometimes brings along imprecise surgical procedures that leave patients with unnatural outcomes, such as distorted eyelids, immobile mouth corners, or even misaligned facial structures. In response to these challenges, robotics researchers and plastic surgeons worldwide have devoted considerable efforts in fields such as facial digital modelling, robotic assistant surgery, intelligent surgical planning, and operation quality evaluation. This workshop welcomes contributions encompassing innovative and interdisciplinary developments in the realm of robotics for enhancing the quality, efficiency, precision and safety of plastic surgeries, such as intelligent operation planning by multi-modal biomedical imaging and machine learning, face organs and tissue compatible robot control and etc.. This workshop aims to serve as a platform for deliberating recent advancements in robotics for plastic surgeries, while also addressing opportunities and crucial challenges that lie ahead in this domain. 
 
 # Summary. An optional shortened abstract.
-summary: Workshop for ICRA2024. See you in Yokohama, Japan, May 13-17, 2024! 
+summary: Workshop proposal for ICRA2024. See you in Yokohama, Japan, May 13-17, 2024! 
 
 tags: [Medical Robots and Systems, Computer Vision for Medical Robotics, Surgical Robotics Planning]
 
