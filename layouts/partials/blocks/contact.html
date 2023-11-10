@@ -124,12 +124,12 @@
     </li>
     {{ end }}
 
-    {{ with $data.appointment_url }}
-    <li>
-      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-      <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>
-    </li>
-    {{ end }}
+<!--    {{ with $data.appointment_url }}-->
+<!--    <li>-->
+<!--      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>-->
+<!--      <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>-->
+<!--    </li>-->
+<!--    {{ end }}-->
 
     {{/* Contact links. */}}
     {{ range $data.contact_links }}
