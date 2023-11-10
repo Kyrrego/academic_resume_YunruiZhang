@@ -1,17 +1,20 @@
 ---
-title:  RAKI on MRSI - A deep learning approach to reconstructing high-dimensional MRSI data
-summary: Proposed a novel deep learning-based method for magnetic resonance spectroscopic imaging (MRSI) reconstruction, which can achieve high-quality MRSI reconstruction from highly undersampled parallel imaging brain data.
+title:  A (k,t)-RAKI Method for Interpolating Sparse Data in Accelerated MRSI Acquisitions
+summary: 
+  Proposed a self-supervised learning-based (k,t)-space interpolation method, (k,t)-RAKI, that is useful for further accelerating MRSI acquisition, in combination with subspace methods. 
+  
+  Abstract Link:https://yunrui-zhang.me/project/summer-intern-uiuc/ISMRM24_ktRAKI_final.pdf
 
 tags:
   - Deep Learning
   - Biomedical Imaging
-date: '2023-07-17T00:00:00Z'
+date: '2023-11-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: 'network design from: Akçakaya M, Moeller S, Weingärtner S, Uğurbil K. Scan-specific robust artificial-neural-networks for k-space interpolation (RAKI) reconstruction: Database-free deep learning for fast imaging. Magn Reson Med. 2019;81(1):439-453. doi:10.1002/mrm.27420'
+  caption: 'Metabolite maps generated from fully sampled and (k,t)-RAKI reconstructed in vivo 1H-MRSI data.'
   focal_point: Smart
 
 links:
@@ -41,6 +44,6 @@ In this work, we adapted and extended the self-supervised learning-based RAKI me
 
 Source code available at: https://github.com/Kyrrego/k_t_RAKI
 
-{{< embed-pdf url="./ISMRM24_ktRAKI_final.pdf" >}}
+Abstract Link: https://yunrui-zhang.me/project/summer-intern-uiuc/ISMRM24_ktRAKI_final.pdf
 
 
