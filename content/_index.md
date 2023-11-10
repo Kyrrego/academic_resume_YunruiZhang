@@ -35,7 +35,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications & Patents
       filters:
         folders:
           - publication

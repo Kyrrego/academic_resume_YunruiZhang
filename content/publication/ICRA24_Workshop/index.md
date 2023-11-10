@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://yunrui-zhang.me/publication/ICRA24_Workshop/slides_surgical_robots.pptx'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -68,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - Intelligent Surgical Robot
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
