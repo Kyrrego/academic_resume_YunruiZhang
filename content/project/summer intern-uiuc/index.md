@@ -32,7 +32,6 @@ url_video: ''
 # slides: example
 
 # 11/10/2023: test pdf embedding (https://github.com/anvithks/hugo-embed-pdf-shortcode)
-{{< embed-pdf url="./ISMRM24_ktRAKI_final.pdf" >}}
 
 ---
 
@@ -42,6 +41,6 @@ In this work, we adapted and extended the self-supervised learning-based RAKI me
 
 Source code available at: https://github.com/Kyrrego/k_t_RAKI
 
-
+{{< embed-pdf url="./ISMRM24_ktRAKI_final.pdf" >}}
 
 
