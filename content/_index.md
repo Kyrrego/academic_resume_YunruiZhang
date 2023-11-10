@@ -186,7 +186,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="life_yr" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
 
