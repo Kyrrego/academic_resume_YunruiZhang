@@ -152,7 +152,7 @@
 <!--    </li>-->
     <li>
     <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
-    {{ if ne $link "null" }}
+    {{ if ne $link "/null" }}
         <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
         {{ $link }}
       {{ else }}
