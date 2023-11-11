@@ -152,11 +152,11 @@
 <!--    </li>-->
     <li>
     <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
-    {{ if ne $link "" }}
-    <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
-    {{ else }}
-    {{.name|markdownify|emojify|safeHTML}}
-    {{ end }}
+    {{ if ne $link "null" }}
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
+      {{ else }}
+        <span>{{.name|markdownify|emojify|safeHTML}}</span>
+      {{ end }}
     </li>
     {{ end }}
 
