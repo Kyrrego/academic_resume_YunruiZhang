@@ -152,6 +152,14 @@
 <!--    </li>-->
     <li>
     <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
+    
+<!--    11/11/2023: if url is not wanted for the contact link, please set "link='null'" and feel free to add url to single words via markdown-->
+<!--    e.g.-->
+<!--    - icon: weixin-->
+<!--              icon_pack: fab-->
+<!--              name: DM Me via [WeChat](https://yunrui-zhang.me/authors/admin/wechat_QR.jpg)-->
+<!--              link: 'null'-->
+    
     {{ if ne $link "/null" }}
         <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
         {{ $link }}
