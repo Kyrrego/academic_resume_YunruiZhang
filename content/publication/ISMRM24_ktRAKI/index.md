@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted to *International Society for Magnetic Resonance in Medicine (ISMRM) 2024*
-publication_short:  Submitted to *ISMRM 2024*
+publication_short:  Submitted to *ISMRM2024*
 
 abstract: In this work, we adapted and extended the self-supervised learning-based RAKI method by incorporating the FID dimension into a 3D, complex-valued convolutional network, for MRSI reconstruction. We improved the design by training a single network to handle multi-coil data simultaneously instead of the coil-by-coil interpolation in the original RAKI method. We demonstrate reduced aliasing by the proposed method and consequently improved spatiospectral processing results, using in vivo 1H-MRSI data. 
 

@@ -23,7 +23,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/ # English URL of THU
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include MRI & MRSI imaging, multi-modal biomedical imaging and surgical robots.
+bio: Hi! I am Yunrui Zhang (张芸睿), a final-year (senior) undergraduate student majoring in Automation at Tsinghua University. My research interests lie broadly in the intersection of advanced healthcare and engineering, including Magnetic Resonance Imaging (MRI) & Magnetic Resonance Spectroscopy Imaging (MRSI), multi-modal biomedical imaging and surgical robotics. 
 
 # Interests to show in About widget
 interests:
@@ -53,12 +53,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/yrzhang0722
-    label: Follow me on Twitter
-    display:
-      header: true
+
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/yrzhang0722
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # 09/18/23: Don't have a google scholar page yet:)
@@ -73,9 +75,10 @@ social:
   # and uncomment the lines below.
 
   # TODO: Add Weibo, Zhihu, CSDN, etc.
-  - icon: weibo
-    icon_pack: fab
-    link: https://weibo.com/u/5991623845
+  # - icon: weibo
+  #   icon_pack: fab
+  #   link: https://weibo.com/u/5991623845
+
   - icon: cv
     icon_pack: ai
     link: uploads/cv_Yunrui_Zhang_231016.pdf
@@ -87,18 +90,19 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am Yunrui Zhang (张芸睿), a final-year(senior) undergraduate student majoring in Automation at Tsinghua University. 
+Hi! I am Yunrui Zhang (张芸睿), a final-year (senior) undergraduate student majoring in [Automation at Tsinghua University](https://www.au.tsinghua.edu.cn/en/). 
 
 
 My research interests lie broadly in **the intersection of advanced healthcare and engineering**, including Magnetic Resonance Imaging (MRI) & Magnetic Resonance Spectroscopy Imaging (MRSI), multi-modal biomedical imaging and surgical robotics. 
 
 
 Throughout my undergraduate studies, I have always been actively involved in scientific research, exploring a variety of fields.
+
 From July to September 2023, I was a summer research intern at Beckman Institute, University of Illinois Urbana-Champaign, where I worked with [Prof. Fan Lam](https://bioengineering.illinois.edu/people/fanlam1) and focused on the application of deep learning methods to improve MRSI reconstruction. 
-Since October 2022, I have been the leader of Intelligent Surgical Robot Team at Tsinghua University. Our research, under the guidance of [Prof. Gangtie Zheng](https://ieeexplore.ieee.org/author/37694930000) and [Prof. Xiao Long](https://www.researchgate.net/profile/Xiao-Long-8), revolves around the utilization of surgical robotics in clinical facial injection-based plastic surgery treatments. 
-Prior to that, I worked with [Prof. Rebing Wu](https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao) and [Prof. Herschel Rabitz](https://chemistry.princeton.edu/faculty-research/faculty/herschel-rabitz/) on the application of machine learning methods in quantum control.
+Since October 2022, I have been the leader of Intelligent Surgical Robot Team at Tsinghua University under the guidance of [Prof. Gangtie Zheng](https://ieeexplore.ieee.org/author/37694930000) and [Prof. Xiao Long](https://www.researchgate.net/profile/Xiao-Long-8). 
+Prior to that, I worked with [Prof. Rebing Wu](https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao) and [Prof. Herschel Rabitz](https://chemistry.princeton.edu/faculty-research/faculty/herschel-rabitz/) on the application of machine learning methods in quantum control. Feel free to continue scrolling down this page to see more of my research!
 
 
 During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶.
 
-{style="text-align: justify;"}
+{style="font-size: 1.2rem; text-align: justify;"}
