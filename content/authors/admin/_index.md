@@ -97,12 +97,11 @@ My research interests lie broadly in **the intersection of advanced healthcare a
 
 
 Throughout my undergraduate studies, I have always been actively involved in scientific research, exploring a variety of fields.
-
 From July to September 2023, I was a summer research intern at Beckman Institute, University of Illinois Urbana-Champaign, where I worked with [Prof. Fan Lam](https://bioengineering.illinois.edu/people/fanlam1) and focused on the application of deep learning methods to improve MRSI reconstruction. 
 Since October 2022, I have been the leader of Intelligent Surgical Robot Team at Tsinghua University under the guidance of [Prof. Gangtie Zheng](https://ieeexplore.ieee.org/author/37694930000) and [Prof. Xiao Long](https://www.researchgate.net/profile/Xiao-Long-8). 
-Prior to that, I worked with [Prof. Rebing Wu](https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao) and [Prof. Herschel Rabitz](https://chemistry.princeton.edu/faculty-research/faculty/herschel-rabitz/) on the application of machine learning methods in quantum control. Feel free to continue scrolling down this page to see more of my research!
+Prior to that, I worked with [Prof. Rebing Wu](https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao) and [Prof. Herschel Rabitz](https://chemistry.princeton.edu/faculty-research/faculty/herschel-rabitz/) on the application of machine learning methods in quantum control. Please feel free to continue scrolling down this page to see more of my research!
 
 
 During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶.
 
-{style="font-size: 1.2rem; text-align: justify;"}
+{style="font-size: 0.8rem; text-align: justify;"}
