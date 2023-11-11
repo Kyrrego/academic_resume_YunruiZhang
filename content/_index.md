@@ -263,7 +263,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: yrzhang0722@gmail.com
       phone: (+86) 136 9911 9108
-      appointment_url: 'https://yunrui-zhang.netlify.app'
+      appointment_url: 'https://yunrui-zhang.me'
       address:
         street: Tsinghua University
         city: Beijing
@@ -278,7 +278,7 @@ sections:
         - icon: weixin
           icon_pack: fab
           name: DM Me via WeChat
-          link: 'https://cloud.tsinghua.edu.cn/f/50c364e2878a4138a951/'
+          link: 'https://yunrui-zhang.me/authors/admin/wechat_QR.jpg'
         - icon: camera-retro
           icon_pack: fas
           name: Avatar image taken by Jida on 09/10/2023 :)
