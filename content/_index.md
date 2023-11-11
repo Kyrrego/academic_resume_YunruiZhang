@@ -278,11 +278,9 @@ sections:
         - icon: weixin
           icon_pack: fab
           name: DM Me via [WeChat](https://yunrui-zhang.me/authors/admin/wechat_QR.jpg)
-          link: 
         - icon: camera-retro
           icon_pack: fas
           name: Avatar image taken by [Jida](https://giddazhang.github.io) on 09/10/2023 :)
-          link: 
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
