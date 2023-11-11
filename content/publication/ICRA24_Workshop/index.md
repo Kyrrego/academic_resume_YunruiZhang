@@ -1,5 +1,5 @@
 ---
-title: 'ICRA24 Workshop: Robotics and Plastic Surgery'
+title: 'Robotics and Plastic Surgery'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,8 +28,8 @@ publishDate: '2023-09-25T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation 2024*
-publication_short: In *ICRA2024*
+publication: Submitted to *IEEE International Conference on Robotics and Automation (ICRA) 2024*
+publication_short: Submitted to *ICRA2024*
 
 abstract: Plastic surgery not only enhances beauty but also corrects facial defects or restores damaged face. Nevertheless, in addition to repetitive labor and often exorbitant costs, conventional manual plastic surgery sometimes brings along imprecise surgical procedures that leave patients with unnatural outcomes, such as distorted eyelids, immobile mouth corners, or even misaligned facial structures. In response to these challenges, robotics researchers and plastic surgeons worldwide have devoted considerable efforts in fields such as facial digital modelling, robotic assistant surgery, intelligent surgical planning, and operation quality evaluation. This workshop welcomes contributions encompassing innovative and interdisciplinary developments in the realm of robotics for enhancing the quality, efficiency, precision and safety of plastic surgeries, such as intelligent operation planning by multi-modal biomedical imaging and machine learning, face organs and tissue compatible robot control and etc.. This workshop aims to serve as a platform for deliberating recent advancements in robotics for plastic surgeries, while also addressing opportunities and crucial challenges that lie ahead in this domain. 
 

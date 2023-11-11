@@ -71,17 +71,17 @@ sections:
               * Devised specialized convolutional kernels and a complex convolutional neural network architecture to enhance both the efficiency of training and the quality of reconstruction.
               * Effectively reconstructed data for different undersampling designs in in vivo brain MRSI, leading to improved subsequent spatiospectral processing results.
   
-        - title: Co-organizer, IEEE ICRA24 Workshop
-          company: Tsinghua University
-          company_url: 'https://www.tsinghua.edu.cn/en/'
-          # company_logo: org-x
-          location: Beijing, China
-          date_start: '2024-05-13'
-          date_end: '2024-05-17'
-          description: |1-
-            Co-organizer of IEEE ICRA24 (International Conference on Robotics and Automation) Workshop on Intelligent Surgical Robots. 
+        # - title: Co-organizer, IEEE ICRA24 Workshop
+        #   company: Tsinghua University
+        #   company_url: 'https://www.tsinghua.edu.cn/en/'
+        #   # company_logo: org-x
+        #   location: Beijing, China
+        #   date_start: '2024-05-13'
+        #   date_end: '2024-05-17'
+        #   description: |1-
+        #     Co-organizer of IEEE ICRA24 (International Conference on Robotics and Automation) Workshop on Intelligent Surgical Robots. 
 
-            * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
+        #     * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
 
         - title: Leader, Intelligent Surgical Robot Team
           company: Tsinghua University

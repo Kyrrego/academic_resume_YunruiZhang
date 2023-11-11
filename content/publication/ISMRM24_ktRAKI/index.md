@@ -1,5 +1,5 @@
 ---
-title: 'ISMRM24: A (k,t)-RAKI Method for Interpolating Sparse Data in Accelerated MRSI Acquisitions'
+title: 'A (k,t)-RAKI Method for Interpolating Sparse Data in Accelerated MRSI Acquisitions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +27,8 @@ publishDate: '2023-11-08T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: A (k,t)-RAKI Method for Interpolating Sparse Data in Accelerated MRSI Acquisitions
-publication_short:  A (k,t)-RAKI Method for Interpolating Sparse Data in Accelerated MRSI Acquisitions
+publication: Submitted to *International Society for Magnetic Resonance in Medicine (ISMRM) 2024*
+publication_short:  Submitted to *ISMRM 2024*
 
 abstract: In this work, we adapted and extended the self-supervised learning-based RAKI method by incorporating the FID dimension into a 3D, complex-valued convolutional network, for MRSI reconstruction. We improved the design by training a single network to handle multi-coil data simultaneously instead of the coil-by-coil interpolation in the original RAKI method. We demonstrate reduced aliasing by the proposed method and consequently improved spatiospectral processing results, using in vivo 1H-MRSI data. 
 
