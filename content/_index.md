@@ -84,8 +84,8 @@ sections:
         #     * Co-organizers: Prof. Xiao Long (Peking Union Medical College Hospital), Prof. Gangtie Zheng (Tsinghua University) , Prof. Richard M. Voyles (Purdue University)
 
         - title: Leader, Intelligent Surgical Robot Team
-          company: Tsinghua University
-          company_url: 'https://www.tsinghua.edu.cn/en/'
+          company: Tsinghua University, Peking Union Medical College
+          # company_url: 'https://www.tsinghua.edu.cn/en/'
           # company_logo: org-x
           location: Beijing, China
           date_start: '2022-10-01'
@@ -97,7 +97,7 @@ sections:
 
         - title: Research Assistant, Quantum Control and Quantum Computation Lab
           company: Department of Automation, Tsinghua University
-          company_url: 'https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao'
+          # company_url: 'https://scholar.google.com/citations?user=rIaG61EAAAAJ&hl=zh-CN&oi=ao'
           # company_logo: org-x
           location: Beijing, China
           date_start: '2021-11-01'
