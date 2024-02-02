@@ -81,7 +81,7 @@ social:
 
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_Yunrui_Zhang_231127.pdf
+    link: uploads/cv_Yunrui_Zhang_Latest_240202.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
