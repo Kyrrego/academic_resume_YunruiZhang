@@ -38,8 +38,5 @@ Parallel imaging has been used to accelerate the slow MRSI acquisition. The comm
 has also seen the integration of neural networks [7]. Nevertheless, these approaches focused on nonlinear relationships within the k-space domain, overlooking valuable information in the temporal dimension.
 In this work, we adapted and extended the self-supervised learning-based RAKI method by incorporating the FID dimension into a 3D, complex-valued convolutional network, for MRSI reconstruction. We improved the design by training a single network to handle multi-coil data simultaneously instead of the coil-by-coil interpolation in the original RAKI method. We demonstrate reduced aliasing by the proposed method and consequently improved spatiospectral processing results, using in vivo H-MRSI data.
 
-Source code available at: https://github.com/Kyrrego/k_t_RAKI
-
-Abstract Link: https://yunrui-zhang.me/project/summer-intern-uiuc/ISMRM24_ktRAKI_final.pdf
 
 
