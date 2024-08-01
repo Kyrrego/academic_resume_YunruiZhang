@@ -15,34 +15,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate Student at Department of Automation
+# role: Senior Undergraduate Student at Department of Automation
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/en/ # English URL of THU
+# organizations:
+#   - name: Tsinghua University
+#     url: https://www.tsinghua.edu.cn/en/ # English URL of THU
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I am Yunrui Zhang (张芸睿), a final-year (senior) undergraduate student majoring in Automation at Tsinghua University. My research interests lie broadly in the intersection of advanced healthcare and engineering, including Magnetic Resonance Imaging (MRI) & Magnetic Resonance Spectroscopy Imaging (MRSI), multi-modal biomedical imaging and surgical robotics. 
+# bio: Hi! I am Yunrui Zhang (张芸睿), a final-year (senior) undergraduate student majoring in Automation at Tsinghua University. My research interests lie broadly in the intersection of advanced healthcare and engineering, including Magnetic Resonance Imaging (MRI) & Magnetic Resonance Spectroscopy Imaging (MRSI), multi-modal biomedical imaging and surgical robotics. 
+bio: Hi! This page is down for maintenance. Please redirect to [https://kyrrego.github.io](https://kyrrego.github.io) for my new website! 
 
 # Interests to show in About widget
-interests:
-  - Biomedical Imaging
-  - Deep Learning
-  - Surgical Robots
+# interests:
+#   - Biomedical Imaging
+#   - Deep Learning
+#   - Surgical Robots
 
 # Education to show in About widget
-education:
-  courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    - course: B.Eng in Automation
-      institution: Tsinghua University
-      year: 2024(Expected)
+# education:
+#   courses:
+#     # - course: PhD in Artificial Intelligence
+#     #   institution: Stanford University
+#     #   year: 2012
+#     # - course: MEng in Artificial Intelligence
+#     #   institution: Massachusetts Institute of Technology
+#     #   year: 2009
+#     - course: B.Eng in Automation
+#       institution: Tsinghua University
+#       year: 2024(Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
